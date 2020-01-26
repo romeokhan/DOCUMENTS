@@ -1,0 +1,5 @@
+1- Create account on GIT HUB
+
+2- Create Repository
+
+3- Clone the repo (  git clone repo_URL)
